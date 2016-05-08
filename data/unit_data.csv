@@ -1,0 +1,67 @@
+unit_name,supply,minerals,gas,build_time,size,cargo,armor,health,attributes,ground_attack,air_attack,bonus,ground_dps,air_dps,bonus_dps,attack_modifier,cooldown,speed,range,sight,race
+Auto-Turret,NA,NA,NA,NA,2x2,NA,1 (+2),150,"A,M,S",8,8,NA,10,10,NA,NA,0.8,NA,6 (+1),7,terran
+Banshee,3,150,100,60,1.5,NA,0 (+1),140,"L,M",12 (+1) x2,NA,NA,19.2 (+1.6),NA,NA,P,1.25,2.75,6,10,terran
+Battlecruiser,6,400,300,90,2.5,NA,3 (+1),550,"A,M,Ma",8 (+1),6 (+1),NA,35.6 (+4.4),26.7 (+4.4),NA,NA,0.225/ 0.225 Air,1.875,6,12,terran
+Ghost,2,200,100,40,0.75,2,0 (+1),100,"B,P",10 (+1),10 (+1),+10 (+1) L,6.7 (+0.7),6.7 (+0.7),+6.7 (+0.7) L,NA,1.5,2.25,6,11,terran
+Hellbat,2,100,0,30,1.25,4,0 (+1),135,"L,B,M",18 (+2),NA,+12 (+1) L,9 (+1),NA,+6 (+0.5) L,S,2,2.25,2,10,terran
+Hellion,2,100,0,30,1.25,2,0 (+1),90,"L,M",8 (+1),NA,"+6 (+1), +11 (+1) L",3.2 (+0.4),NA,"+2.4 (+0.4), +4.4 (+0.4) L",L,2.5,4.25,5,10,terran
+Marauder,2,100,25,30,1.125,2,1 (+1),125,"A,B",10 (+1),NA,+10 (+1) A,"6.7 (+0.7), 10 (+1)",NA,"+6.7 (+0.7), +10 (+1) A",P,1.5 (1.0),2.25 (+1.125),6,10,terran
+Marine,1,50,0,25,0.75,1,0 (+1),45 (+10),"L,B",6 (+1),6 (+1),NA,"7 (+1.2), 10.5 (+1.7)","7 (+1.2), 10.5 (+1.7)",NA,NA,0.8608 (0.5739),2.25 (+1.125),5,9,terran
+Medivac,2,100,100,42,1.5,NA,1 (+1),150,"A,M",NA,NA,NA,NA,NA,NA,NA,NA,2.5 (4.25),NA,11,terran
+Missile Turret,NA,100,0,25,2x2,NA,0 (+2),250,"A,M,S",NA,12 x2,NA,NA,27.9,NA,NA,0.8608,NA,7 (+1),11,terran
+Mule,NA,NA,NA,NA,0.75,NA,0 (+1),60,"L,M",NA,NA,NA,NA,NA,NA,NA,NA,2.8,NA,8,terran
+Planetary Fortress,NA,150,150,50,5x5,NA,3 (+2),1500,"A,M,S",40,NA,NA,20,NA,NA,S,2,NA,6 (+1),11,terran
+Point Defense Drone,NA,NA,NA,NA,1.2,NA,0 (+2),50,"L,M,S",NA,NA,NA,NA,NA,NA,NA,0,NA,8 (+1),7,terran
+Raven,2,100,200,60,1.25,NA,1 (+1),140,"L,M",NA,NA,NA,NA,NA,NA,NA,NA,2.25,NA,11,terran
+Reaper,1,50,50,40,0.75,1,0 (+1),60,"L,B",4 (+1) x2,NA,NA,7.3 (+1.8),NA,NA,NA,1.1,3.75,4.5,9,terran
+SCV,1,50,0,17,0.75,1,0 (+1),45,"L,B,M",5(+0),NA,NA,3.3,NA,NA,NA,1.5,2.8125,M,8,terran
+Siege Tankæsm,3,150,125,45,1.75,NA,1 (+1),160,"A,M",35 (+3),NA,15 (+2)A,11.7 (+1),NA,+5 (+0.6)A,S,3,NA,13,11,terran
+Siege Tankætm,3,150,125,45,1.75,4,1 (+1),160,"A,M",15 (+2),NA,+10 (+1)A,14.4 (+1.9),NA,+9.6 (+1)A,NA,1.04,2.25,7,11,terran
+Thor,6,300,200,60,1.875,8,1 (+1),400,"A,M,Ma",30 (+3) x2,"6 (+1) x4[1], 24(+2)æ[2]",+6 (+1) L Air,46.9 (+4.7),"8 (+1.3), 12 (+1)",+8 (+1.3)L,"S,Pæ[1]","1.28, 3, 2",1.875,"7,10,10",11,terran
+Vikingæam,2,150,75,42,1.5,2,0 (+1),125,"A,M",12 (+1),NA,NA,12 (+1),NA,NA,NA,1,2.25,6,10,terran
+Vikingæfm,2,150,75,42,1.5,NA,0 (+1),125,"A,M",NA,10 (+1) x2,+4A,NA,10 (+1),+4A,P,2,2.75,9,10,terran
+Widow Mine,2,75,25,40,1,2,0 (+1),90,"L,M",125,NA,+35 Shield,NA,NA,NA,S,40,2.8125,5,7,terran
+Larva,NA,NA,NA,15,0.25,NA,10,25,"L,B",NA,NA,NA,NA,NA,NA,NA,NA,-0.5625,NA,5,zerg
+Drone,1,50,0,17,0.75,1,0 (+1),40,"L,B",5 (+0),NA,NA,3.3,NA,NA,NA,1.5,2.8125,M,8,zerg
+Queen,2,150,0,50,1.75,2,1 (+1),175,"B,P",4 (+1) x2,9 (+1),NA,8 (+2),9 (+1),NA,P,1,0.9375,7-May,9,zerg
+Zergling,0,25,0,24,0.75,1,0 (+1),35,"L,B",5 (+1),NA,NA,"7.2 (+1.4), 8.5 (+1.7)",NA,NA,NA,0.696 (0.587),2.9531 (+1.746),M,8,zerg
+Baneling,0,25,25,20,0.75,2,0 (+1),30,B,20 (+2),NA,+15 (+2)L / +60 (+3)S,NA,NA,NA,S,NA,2.5 (+0.4531),M,8,zerg
+Roach,2,75,25,27,1,2,1 (+1),145,"A,B",16 (+2),NA,NA,8 (+1),NA,NA,NA,2,2.25 (+0.75),4,9,zerg
+Hydralisk,2,100,50,33,1.25,2,0 (+1),80,"L,B",12 (+1),12 (+1),NA,16 (+1.3),16 (+1.3),NA,P,0.75,2.25 (+0.5625),5 (+1),9,zerg
+Infestor,2,100,150,50,1.5,2,0 (+1),90,"A,B,P",NA,NA,NA,NA,NA,NA,NA,NA,2.25,NA,10,zerg
+Infested Terran,NA,NA,NA,5,0.75,NA,0,50,"L,B",8,8,NA,9.3,9.3,NA,NA,0.8608,0.9375,5,9,zerg
+Swarm Host,3,200,100,40,1.625,4,1 (+1),160,"A,B",NA,NA,NA,27.9 (+2.3)[1],NA,NA,P,0.86,2.25,NA,10,zerg
+Locust,NA,NA,NA,5,0.75,NA,0 (+1),65,"L,B",12 (+1),NA,NA,14.0 (+1.2),NA,NA,P,0.86,1.875,3,6,zerg
+Ultralisk,6,300,200,55,2,8,1 (+1) ((+2)),500,"A,B,Ma",35 (+3),NA,NA,40.7 (+3.5),NA,NA,S,0.861,2.9531,1,9,zerg
+Overlord,NA,100,0,25,NA,NA,0 (+1),200,"A,B",NA,NA,NA,NA,NA,NA,NA,NA,0.586 (+1.294),NA,11,zerg
+Overseer,NA,50,50,17,NA,NA,1 (+1),200,"A,B",NA,NA,NA,NA,NA,NA,NA,NA,1.875 (+0.875),NA,11,zerg
+Changeling,NA,NA,NA,1,0.75,NA,0,5,"L,B",NA,NA,NA,NA,NA,NA,NA,NA,2.25,NA,8,zerg
+Mutalisk,2,100,100,33,NA,NA,0 (+1),120,"L,B",9 (+1),9 (+1),NA,5.9 (+0.7),5.9 (+0.7),NA,"B,P",1.5246,4,3,11,zerg
+Corruptor,2,150,100,40,NA,NA,2 (+1),200,"A,B",NA,14 (+1),+6 (+1)Ma,NA,7.4 (+0.5),+3.2 (+0.5)Ma,P,1.9,2.9531,6,10,zerg
+Viper,3,100,200,40,NA,NA,1 (+1),150,"A,B,P",NA,NA,NA,NA,NA,NA,NA,NA,2.9531,NA,11,zerg
+Brood Lord,4,150,150,34,NA,NA,1 (+1),225,"A,B,Ma",20 (+2),NA,NA,8 (+0.8),NA,NA,NA,2.5,1.4062,9.5,12,zerg
+Broodling,NA,NA,NA,1,0.75,NA,0 (+1),30,"L,B",4 (+1),NA,NA,6.2 (+1.5),NA,NA,NA,0.6455,3.836,M,7,zerg
+Spine Crawler,NA,100,NA,50,2x2,NA,2,300,"A,B,S",25,NA,+5A,13.5,NA,+2.7A,NA,1.85,-1,7,11,zerg
+Spore Crawler,NA,75,NA,30,2x2,NA,1,400,"A,B,S",NA,15,+ 30 B,NA,17.4,+34.8 B,P,0.8608,-1,7,11,zerg
+Nydus Worm,NA,100,100,20,3x3,NA,1,200,"A,B,S",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10,zerg
+Probe,1,50,0,17,0.75,1,0 (+1),40,"L, M",5 (+0),NA,NA,3.3,NA,NA,NA,1.5,2.8125,M,8,protoss
+Zealot,2,100,0,38/28,0.75,2,1 (+1),150,"L, B",8 (+1) x2,NA,NA,13.3 (+1.7),NA,NA,NA,1.2,2.25 (+0.5),M,9,protoss
+Sentry,2,50,100,37/32,1.25,2,1 (+1),80,"L, M, P",6 (+1),6 (+1),NA,6 (+1),6 (+1),NA,NA,1,2.25,5,10,protoss
+Stalker,2,125,50,42/32,1.25,2,1 (+1),160,"A, M",10 (+1),10 (+1),+4 A,6.9 (+0.7),6.9 (+0.7),+2.8 A,P,1.44,2.9531,6,10,protoss
+High Templar,2,50,150,55/45,0.75,2,0 (+1),80,"L, B, P",NA,NA,NA,NA,NA,NA,NA,NA,1.875,NA,10,protoss
+Dark Templar,2,125,125,55/45,0.75,2,1 (+1),120,"L, B, P",45 (+5),NA,NA,26.6 (+3),NA,NA,NA,1.694,2.8125,M,8,protoss
+Immortal,4,250,100,55,1.5,4,1 (+1),300,"A, M",20 (+2),NA,+30 (+3) A,13.8 (+1.4),NA,+20.7 (+2.1) A,NA,1.45,2.25,6,9,protoss
+Colossus,6,300,200,75,2 / -,8,1 (+1),350,"A, M, Ma",15 (+2) x2,NA,NA,18.2 (+2.4),NA,NA,L,1.65,2.25,6 (+3),10,protoss
+Archon,4,0,0,12,1.5,4,0 (+1),360,"P, Ma",25 (+3),25 (+3),+10 (+1) B,14.3 (+1.7),14.3 (+1.7),+5.7 (+0.6) B,S,1.754,2.8125,3,9,protoss
+Observer,1,25,75,30,1,NA,0 (+1),60,"L, M",NA,NA,NA,NA,NA,NA,NA,NA,1.875 (+0.9375),NA,11,protoss
+Warp Prism,2,200,0,50,1.75,NA,0 (+1),200,"A, M, P",NA,NA,NA,NA,NA,NA,NA,NA,2.9531 (+0.422),NA,10,protoss
+Phoenix,2,150,100,35,1.5,NA,0 (+1),180,"L, M",NA,5 (+1) x2,+5 L,NA,9 (+1.8),+9 L,P,1.11,4.25,5 (+2),10,protoss
+Mothership Core,2,100,100,30,2,NA,1 (+1),190,"A, M, P",8 (+1),NA,NA,9.4 (+1.2),NA,NA,P,0.85,1.875,5,9,protoss
+Void Ray,4,250,150,60,1.5,NA,0 (+1),250,"A, M",6 (+1),6 (+1),"+4 (+1), +10 (+1) A",12 (+2),12 (+2),"+8 (+2), +20 (+2) A",NA,0.5,2.25,6,10,protoss
+Oracle,3,150,150,50,1.5,NA,0 (+1),160,"L, M, P",15æ[2],NA,+10 L,17.4,NA,11.6,NA,0.86,4,4,10,protoss
+Tempest,4,300,200,60,2.5,NA,2 (+1),450,"A, M, Ma",30 (+3),30 (+3),+50 (+2) Ma Air,9.1 (+0.9),9.1 (+0.9),+15.2 (+0.6) Ma Air,P,3.3,1.875,15,12,protoss
+Carrier,6,350,250,120,2.5,NA,2 (+1),450,"A, M, Ma",NA,NA,NA,26.7[3](+5.3),26.7 (+5.3),NA,NA,0.5 (0.125/ 0.25)[4],1.875,8,12,protoss
+Interceptor,0,25,0,8,0.5,NA,0 (+1),80,"L, M",5 (+1) x2,5 (+1) x2,NA,3.3 (+0.7),3.3 (+0.7),NA,NA,3,7.5,2,7,protoss
+Mothership,8,300,300,100,2.75,NA,2 (+1),700,"A, M, P, Ma",6 (+1) x6,6 (+1) x6,NA,16.3 (+2.7),16.3 (+2.7),NA,NA,2.21,1.4062,7,14,protoss
+Photon Cannon,NA,150,0,40,2x2,NA,1,300,"A, S",20,20,NA,16,16,NA,NA,1.25,NA,7,11,protoss
+Nexus,NA,400,0,100,5x5,NA,1,2000,"A, S",20[5],20,NA,16,16,NA,NA,1.25,NA,13,11,protoss

@@ -1,4 +1,4 @@
-unit_name,supply,minerals,gas,build_time,size,cargo,armor,health,attributes,ground_attack,air_attack,bonus,ground_dps,air_dps,bonus_dps,attack_modifier,cooldown,peed,creep_bonus,range,sight
+unit_name,supply,minerals,gas,build_time,size,cargo,armor,health,attributes,ground_attack,air_attack,bonus,ground_dps,air_dps,bonus_dps,attack_modifier,cooldown,speed,creep_bonus,range,sight
 Larva,-,-,-,15,0.25,-,10,25,"L,B",-,-,-,-,-,-,-,-,-0.5625,x1.0,-,5
 Drone,1,50,0,17,0.75,1,0 (+1),40,"L,B",5 (+0),-,-,3.3,-,-,-,1.5,2.8125,x1.0,M,8
 Queen,2,150,0,50,1.75,2,1 (+1),175,"B,P",4 (+1) x2,9 (+1),-,8 (+2),9 (+1),-,P,1,0.9375,x2.7,7-May,9
